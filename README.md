@@ -8,3 +8,4 @@
     - test of acceptance
 - LFA conversion to DFA
 - DFA minimalization -> Myhill Nerode
+- CFG -> acceptance

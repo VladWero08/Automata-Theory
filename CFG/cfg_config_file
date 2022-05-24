@@ -1,0 +1,16 @@
+Variables:
+S, start
+X
+B
+C
+E
+--end
+Terminals:
+aaa
+c
+e
+--end
+Rules:
+C->c|<B><C>
+E->a<A>|e
+--end
